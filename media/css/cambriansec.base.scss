@@ -15,18 +15,21 @@ h1 {
     color: $red-color;
 }
 
+a { 
+    font-weight: bold;
+    color: $blue-color;
+    text-decoration: none;
+}
+a:hover { 
+    text-decoration: underline;
+}
+
 .header {
     border-top: 1px $bg-color solid;
     background-color: $bg-color;
     padding: 20px;
     .nav a { 
-        font-weight: bold;
-        color: $blue-color;
         padding: 10px;
-        text-decoration: none;
-    }
-    .nav a:hover { 
-        text-decoration: underline;
     }
 }
 
