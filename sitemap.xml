@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://cambriansec.com/blog/cambrian-explosion/</loc>
+    <lastmod>2017-06-21T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/services/code-review/</loc>
+    <lastmod>2017-06-09T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/services/penetration-testing/</loc>
+    <lastmod>2017-06-09T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/services/security-training/</loc>
+    <lastmod>2017-06-09T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/services/virtual-ciso/</loc>
+    <lastmod>2017-06-09T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/services/webapp-assessment/</loc>
+    <lastmod>2017-06-09T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/blog/</loc>
+    <lastmod>2017-06-21T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/company/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/products/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/services/</loc>
+    <lastmod>2017-06-09T13:16:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/</loc>
+    <lastmod>2017-06-21T13:16:27-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cambriansec.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

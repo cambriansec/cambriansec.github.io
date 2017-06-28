@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cambrian Security LLC</title>
+    <link>http://cambriansec.com/</link>
+    <description>Recent content on Cambrian Security LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jun 2017 13:16:27 -0600</lastBuildDate>
+    
+	<atom:link href="http://cambriansec.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cambrian Security, Explosion What?</title>
+      <link>http://cambriansec.com/blog/cambrian-explosion/</link>
+      <pubDate>Wed, 21 Jun 2017 13:16:27 -0600</pubDate>
+      
+      <guid>http://cambriansec.com/blog/cambrian-explosion/</guid>
+      <description>The registrations are complete. We have email. The new website is online. We are open for business. This is the first blog post. It is &amp;ldquo;Day 1&amp;rdquo; at Cambrian Security.[1] You are probably asking what we plan to do and how we plan to do it. Here is the answer.
+First, lets set the context. People have estimated we are (or will be) shorthanded by more than 1 million cyber security professionals.</description>
+    </item>
+    
+    <item>
+      <title>Code Review and Fuzzing</title>
+      <link>http://cambriansec.com/services/code-review/</link>
+      <pubDate>Fri, 09 Jun 2017 13:16:27 -0600</pubDate>
+      
+      <guid>http://cambriansec.com/services/code-review/</guid>
+      <description>Many organizations have added code review to their internal software development and devops process. Cambrian Security can help take that effort a step further by providing on-demand experienced security consultants to help you identify vulnerabilities and privacy issues. We will also help you build and integrate automated security fuzzing tests into your software development and release process.
+Code review engagements typically start with a general assessment of your architecture and then proceed with manual analysis and the creation of fuzzers (or code instrumentation) specialized to your application.</description>
+    </item>
+    
+    <item>
+      <title>Penetration Testing</title>
+      <link>http://cambriansec.com/services/penetration-testing/</link>
+      <pubDate>Fri, 09 Jun 2017 13:16:27 -0600</pubDate>
+      
+      <guid>http://cambriansec.com/services/penetration-testing/</guid>
+      <description>Cambrian Security will help you discover, prioritize and mitigate both security vulnerabilities and potential customer privacy issues.
+During a penetration test, our team of experts will explore, evaluate and report on the security of your infrastructure. The scope of assessments may be strictly limited to a specific application or it may be wide open, targeting your entire operational infrastructure. Your incident response team may be tested or they may follow along and be part of the attack team.</description>
+    </item>
+    
+    <item>
+      <title>Security Training</title>
+      <link>http://cambriansec.com/services/security-training/</link>
+      <pubDate>Fri, 09 Jun 2017 13:16:27 -0600</pubDate>
+      
+      <guid>http://cambriansec.com/services/security-training/</guid>
+      <description>Cambrian Security provides training courses that are customized to your organization and technology stack. These are not canned courses that teach people to use specific tools. First, we teach the fundamentals, such as common vulnerability classes or secure software development process best practices. Then we use customized exercises to build deeper understanding of those vulnerability classes as they specifically apply to your particular technology stack.
+Typical training sessions may focus on web application vulnerabilities and their prevention or secure software development processes such as &amp;ldquo;secure AGILE&amp;rdquo; and &amp;ldquo;secure DevOps&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Virtual CISO</title>
+      <link>http://cambriansec.com/services/virtual-ciso/</link>
+      <pubDate>Fri, 09 Jun 2017 13:16:27 -0600</pubDate>
+      
+      <guid>http://cambriansec.com/services/virtual-ciso/</guid>
+      <description>Our Virtual Chief Information Security Officer service is designed for small to medium size businesses that would benefit from security expertise at the management level but do not have budget for an entire security department. We provide security leadership and guidance on creating processes and policies that foster the development of a secure enterprise.
+We will work directly with your executive and management team to build strategy and architecture that meets your business needs but also minimizes security risks and privacy concerns.</description>
+    </item>
+    
+    <item>
+      <title>Web or Mobile App Assessment</title>
+      <link>http://cambriansec.com/services/webapp-assessment/</link>
+      <pubDate>Fri, 09 Jun 2017 13:16:27 -0600</pubDate>
+      
+      <guid>http://cambriansec.com/services/webapp-assessment/</guid>
+      <description>Web and mobile applications often represent the front-door to an organization. We will test your applications for security vulnerabilities and privacy risks. We will test for typical vulnerability classes (SQL injection, cross site scripting, etc) but we will also check authentication and user privilege controls for potential customer data leaks. For example, we always create two user accounts and then use one of those user accounts to attempt to access the data of the other user account.</description>
+    </item>
+    
+  </channel>
+</rss>
